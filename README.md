@@ -16,11 +16,19 @@ pip install -r requirements.txt
 - 'in-class.ipynb': class notes and practices
 - 'app.py': World Clock with selection up to 4 locations
 - 'main.py': Web Scraping python script
+- 'regular_expression.ipynb': HW3 notebook file with complete exercises for Regular Expression
+
 
 ## Lessons Learned
 
-- How to 
+- How to use python code to extract data and transform
+- How to fetch time series data, how to store and query
+- How to build a world clock real time app via streamlit
+- how to add dropdown menu in streamlit
+- how to create a PostgreSQL server on Azure
+- how to create a GitHub Action that runs a script periodically 
+
 
 ## Questions / Uncertainties
 
-- What if I want to make the website look more personalized and exquisite?
+- Not sure about the github action running scriot periodically
