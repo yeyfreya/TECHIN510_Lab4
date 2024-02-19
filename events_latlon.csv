@@ -1,17 +1,4 @@
 Name,Date & Time,Location,Type,Region,Latitude,Longitude
-A Case for the Existence of God,Now through 2/18/2024,ACT Theatre,Theatre,Downtown,47.6108495,-122.3323262
-Northwest Flower & Garden Festival,Now through 2/18/2024,Seattle Convention Center,Festivals & Special Events,Downtown,47.61175385,-122.33156275066185
-The Princess Bride in Concert with the Seattle Symphony,Now through 2/18/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705
-Mindi Abair Wine and Jazz Tour 2024,Now through 2/18/2024,Dimitriou's Jazz Alley,Music,Downtown,47.6148163,-122.339691
-Seattle RV Show,Now through 2/18/2024,Lumen Field,Festivals & Special Events,Pioneer Square,47.5953459,-122.33164431196111
-Madonna,Now through 2/18/2024,Climate Pledge Arena,Music,Queen Anne / Seattle Center,47.6219014,-122.353990491486
-Aqua Fools’ Day,2/18/2024,High Dive,Music,Fremont / Ballard,47.6514631,-122.3517391
-Dr. Joy Buolamwini,2/18/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222
-La Nef: Red Sky at Night,2/18/2024,Town Hall Seattle,Music,Downtown,47.6090191,-122.32993774092222
-Love Beyond Border,2/18/2024,Benaroya Hall,Music,Downtown,47.60811665,-122.33697040702705
-"Meet the Author: Maggie Taft, The Chieftain and the Chair",2/18/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151
-Skyler Floe Sextet,2/18/2024,The Royal Room,Music,South Seattle,47.5569023,-122.2842722
-Steamboat – Nokosee Fields Trio,2/18/2024,The Royal Room,Music,South Seattle,47.5569023,-122.2842722
 Community is a Radical Act of Love,2/19/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222
 Seattle Kraken vs. Detroit Red Wings,2/19/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486
 The Thrifted,2/19/2024,High Dive,Music,Fremont / Ballard,47.6514631,-122.3517391
@@ -140,7 +127,7 @@ Josiah and the Bonnevilles,3/9/2024,Barboza,Music,Capitol Hill / Central Distric
 Mahan Esfahan,3/9/2024,Town Hall Seattle,Music,Downtown,47.6090191,-122.32993774092222
 Positive Fragmentation,Now through 3/10/2024,Bellevue Arts Museum,Museums,Bellevue / Eastside,,
 Antonio M. Gomez: LINEAJES,Now through 3/10/2024,Frye Art Museum,Museums,Capitol Hill / Central District,47.60719095,-122.32405377084555
-Soren Solkaer: Sort Sol,Now through 3/10/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151
+Soren Solkaer: Sort Sol,Now through 3/10/2024,National Nordic Museum,Museums,Fremont / Ballard,47.668285600000004,-122.39177691452363
 Luchadora!,2/22/2024 through 3/10/2024,Seattle Children's Theatre,Theatre,Queen Anne / Seattle Center,47.6204553,-122.35225726215312
 Earshot Golden Ear Awards Party: Jun Iida,3/11/2024,The Royal Room,Music,South Seattle,47.5569023,-122.2842722
 Sasha LaPointe,3/11/2024,Town Hall Seattle,Readings & Lectures,Downtown,47.6090191,-122.32993774092222
@@ -222,7 +209,7 @@ Copland Appalachian Spring,4/4/2024 through 4/6/2024,Benaroya Hall,Music,Downtow
 Red Bull Lords of Floor,4/6/2024,WaMu Theater,Dance,Pioneer Square,47.593154,-122.3329041
 Seattle Sounders FC vs. CF Montreal,4/6/2024,Lumen Field,Sports,Pioneer Square,47.5953459,-122.33164431196111
 Tom Segura,4/6/2024,Climate Pledge Arena,Theatre,Queen Anne / Seattle Center,47.6219014,-122.353990491486
-La Vaughn Belle: A History of Unruly Returns,Now through 4/7/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151
+La Vaughn Belle: A History of Unruly Returns,Now through 4/7/2024,National Nordic Museum,Museums,Fremont / Ballard,47.668285600000004,-122.39177691452363
 Beetlejuice,4/2/2024 through 4/7/2024,The Paramount Theatre,Theatre,Downtown,,
 Seattle Kraken vs. Arizona Coyotes,4/9/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486
 Seattle Kraken vs. San Jose Sharks,4/11/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486
@@ -309,7 +296,7 @@ Kenny Chesney with Zac Brown Band,7/13/2024,Lumen Field,Music,Pioneer Square,47.
 Seattle Storm vs. Atlanta Dream,7/14/2024,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,47.6219014,-122.353990491486
 Seattle Sounders FC vs. St. Louis SC,7/17/2024,Lumen Field,Sports,Pioneer Square,47.5953459,-122.33164431196111
 Seattle Sounders FC vs. Los Angeles FC,7/20/2024,Lumen Field,Sports,Pioneer Square,47.5953459,-122.33164431196111
-Nordic Utopia: African Americans in the 20th Century,3/22/2024 through 7/21/2024,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151
+Nordic Utopia: African Americans in the 20th Century,3/22/2024 through 7/21/2024,National Nordic Museum,Museums,Fremont / Ballard,47.668285600000004,-122.39177691452363
 Clue,7/9/2024 through 7/21/2024,The 5th Avenue Theatre,Theatre,Downtown,,
 "Be Water, My Friend: The Teachings Of Bruce Lee",Now through 7/28/2024,Wing Luke Museum,Museums,International District,47.5982461,-122.3228705
 Festal: Seattle Arab Festival,7/27/2024 through 7/28/2024,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,47.621255,-122.34974101387942
@@ -366,5 +353,18 @@ Giant Pacific Octopus,Ongoing,Seattle Aquarium,Museums,Downtown,47.60762475,-122
 Meet our Marine Mammals,Ongoing,Seattle Aquarium,Museums,Downtown,47.60762475,-122.34322017076866
 Window on Washington Waters,Ongoing,Seattle Aquarium,Museums,Downtown,47.60762475,-122.34322017076866
 Guitar Gallery,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,47.621493099999995,-122.34822527405619
-Nordic Journeys,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,47.6683615,-122.39177949359151
+Nordic Journeys,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,47.668285600000004,-122.39177691452363
 Baird’s beaked whale,Ongoing,Burke Museum,Museums,University District,47.6605211,-122.31156049949824
+Amazing Life,Ongoing,Burke Museum,Museums,University District,47.6605211,-122.31156049949824
+Culture is Living,Ongoing,Burke Museum,Museums,University District,47.6605211,-122.31156049949824
+Fossils Uncovered,Ongoing,Burke Museum,Museums,University District,47.6605211,-122.31156049949824
+Northwest Native Art,Ongoing,Burke Museum,Museums,University District,47.6605211,-122.31156049949824
+Our Material World,Ongoing,Burke Museum,Museums,University District,47.6605211,-122.31156049949824
+Apollo,Ongoing,The Museum of Flight,Museums,South Seattle,,
+Art and Life Along the Northwest Coast,Ongoing,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575
+Washington: My Home,Ongoing,Washington State History Museum,Museums,South,47.6605211,-122.31156049949824
+Sensory-Friendly Programs,Ongoing,MoPOP Museum of Pop Culture,Festivals & Special Events,Queen Anne / Seattle Center,47.621493099999995,-122.34822527405619
+Dale Chihuly at Tacoma Art Museum,Ongoing,Tacoma Art Museum,Museums,South,,
+Be/longing: Contemporary Asian Art,Ongoing,Seattle Asian Art Museum,Museums,Capitol Hill / Central District,47.63029565,-122.31413540328062
+Porcelain Room,Ongoing,Seattle Art Museum,Museums,Downtown,47.6077008,-122.3385575
+Life on the Edge,Ongoing,Seattle Aquarium,Museums,Downtown,47.60762475,-122.34322017076866
