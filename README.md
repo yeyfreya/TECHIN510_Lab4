@@ -1,5 +1,7 @@
 # TECHIN510_Lab4
-TECHIN510 Lab4 Freya
+TECHIN510 Lab4 Freya Yu 2372732
+
+World Clock App: https://yeyfreya-techin510-lab4.azurewebsites.net/ 
 
 ## How to Run
 
@@ -31,4 +33,4 @@ pip install -r requirements.txt
 
 ## Questions / Uncertainties
 
-- Not sure about the github action running scriot periodically
+- Not sure about the github action running script periodically - Solved. Added token and action can auto update csv files on github.
