@@ -1,46 +1,55 @@
 Name,Date & Time,Location,Type,Region,Latitude,Longitude,weather,temperature,wind_speed,wind_direction
-Joe Casalini Trio,4/10/2026,The Royal Room,Music,South Seattle,,,Sunny,63,8 mph,NNW
-Recession Pop,4/10/2026,Neumos,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-Seattle Kraken vs. Calgary Flames,4/11/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Sunny,63,8 mph,NNW
-Boren Banner Series: Camille Trautman,Now through 4/12/2026,Frye Art Museum,Museums,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-Festal: Seattle Cherry Blossom & Japanese Cultural Festival,4/10/2026 through 4/12/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Sunny,63,8 mph,NNW
-Deafbloom,4/12/2026,Barboza,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-Seattle Kraken vs. Los Angeles Kings,4/13/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Sunny,63,8 mph,NNW
-April,4/14/2026,The Royal Room,Music,South Seattle,,,Sunny,63,8 mph,NNW
-U.S. Women’s National Team Match (USA vs Japan),4/14/2026,Lumen Field,Sports,Pioneer Square,,,Sunny,63,8 mph,NNW
-MFG aka Maxwell Friedman Group with McTuff ‘The V3’,4/15/2026,Hidden Hall,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Sleepy Cat,4/15/2026,Barboza,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-DJ Lex,4/16/2026,Neumos,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-Reggie Garrett and Christine Gunn,4/18/2026,The Royal Room,Music,South Seattle,,,Sunny,63,8 mph,NNW
-Priscilla Dobler Dzul: Water Carries the Stories of Our Stars,Now through 4/19/2026,Frye Art Museum,Museums,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-10 Ft Ganja Plant,4/19/2026,Nectar Lounge,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-A Front Porch Revival,4/19/2026,The Royal Room,Music,South Seattle,,,Sunny,63,8 mph,NNW
-JUSTB,4/20/2026,Nectar Lounge,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Boudain,4/22/2026,Tractor Tavern,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Dancing Hearts,4/22/2026,Barboza,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-Ain’t Misbehavin’,Now through 4/24/2026,Taproot Theatre,Theatre,North Seattle,,,Sunny,63,8 mph,NNW
-Devil’s Duvet,4/24/2026,Slim's Last Chance,Music,South Seattle,,,Sunny,63,8 mph,NNW
-I WANT IT THAT WAY: 90s/2000s Dance Party,4/24/2026,Hidden Hall,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Joe Casalini Trio,4/24/2026,The Royal Room,Music,South Seattle,,,Sunny,63,8 mph,NNW
-CHYL,4/25/2026,Neumos,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-Riding Together: 135 Years of Cycling in Seattle,Now through 4/26/2026,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Sunny,63,8 mph,NNW
-Brazilian Showcase,4/26/2026,The Royal Room,Music,South Seattle,,,Sunny,63,8 mph,NNW
-Mo Dow and  Friends,4/26/2026,Sunset Tavern,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Tempest Tossed,4/26/2026,Town Hall Seattle,Music,Downtown,,,Sunny,63,8 mph,NNW
-Jonny Fritz,4/27/2026,Sunset Tavern,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Photay,4/27/2026,Barboza,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-Global Rhythms: Novalima,4/28/2026,Town Hall Seattle,Music,Downtown,,,Sunny,63,8 mph,NNW
-Raf-Sappera,4/28/2026,Neumos,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-El Ten Eleven,4/29/2026,Hidden Hall,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Las Cafeteras,4/29/2026,Nectar Lounge,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Seattle Storm vs. Portland Fire,4/29/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Sunny,63,8 mph,NNW
-The Cribs,4/29/2026,Sunset Tavern,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Anna Tivel,4/30/2026,Sunset Tavern,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Jessie Thoreson and The Crown Fire,4/30/2026,Tractor Tavern,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Philippe Jaroussky and Artaserse,4/30/2026,Town Hall Seattle,Music,Downtown,,,Sunny,63,8 mph,NNW
-Tavana,4/30/2026,Nectar Lounge,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Grace Ives,5/1/2026,Neumos,Music,Capitol Hill / Central District,,,Sunny,63,8 mph,NNW
-Hit Explosion,5/1/2026,Nectar Lounge,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Lipphead,5/1/2026,Hidden Hall,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
-Allyn Naylor,5/2/2026,Slim's Last Chance,Music,South Seattle,,,Sunny,63,8 mph,NNW
-ATLUS,5/2/2026,Nectar Lounge,Music,Fremont / Ballard,,,Sunny,63,8 mph,NNW
+Seattle Kraken vs. Calgary Flames,4/11/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Boren Banner Series: Camille Trautman,Now through 4/12/2026,Frye Art Museum,Museums,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Festal: Seattle Cherry Blossom & Japanese Cultural Festival,4/10/2026 through 4/12/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Deafbloom,4/12/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Seattle Kraken vs. Los Angeles Kings,4/13/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+April,4/14/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+U.S. Women’s National Team Match (USA vs Japan),4/14/2026,Lumen Field,Sports,Pioneer Square,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+MFG aka Maxwell Friedman Group with McTuff ‘The V3’,4/15/2026,Hidden Hall,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Sleepy Cat,4/15/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+DJ Lex,4/16/2026,Neumos,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Reggie Garrett and Christine Gunn,4/18/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Priscilla Dobler Dzul: Water Carries the Stories of Our Stars,Now through 4/19/2026,Frye Art Museum,Museums,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+10 Ft Ganja Plant,4/19/2026,Nectar Lounge,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+A Front Porch Revival,4/19/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+JUSTB,4/20/2026,Nectar Lounge,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Boudain,4/22/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Dancing Hearts,4/22/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Ain’t Misbehavin’,Now through 4/24/2026,Taproot Theatre,Theatre,North Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Devil’s Duvet,4/24/2026,Slim's Last Chance,Music,South Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+I WANT IT THAT WAY: 90s/2000s Dance Party,4/24/2026,Hidden Hall,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Joe Casalini Trio,4/24/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+CHYL,4/25/2026,Neumos,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Riding Together: 135 Years of Cycling in Seattle,Now through 4/26/2026,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Brazilian Showcase,4/26/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Mo Dow and  Friends,4/26/2026,Sunset Tavern,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Tempest Tossed,4/26/2026,Town Hall Seattle,Music,Downtown,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Jonny Fritz,4/27/2026,Sunset Tavern,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Photay,4/27/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Global Rhythms: Novalima,4/28/2026,Town Hall Seattle,Music,Downtown,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Raf-Sappera,4/28/2026,Neumos,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+El Ten Eleven,4/29/2026,Hidden Hall,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Las Cafeteras,4/29/2026,Nectar Lounge,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Seattle Storm vs. Portland Fire,4/29/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+The Cribs,4/29/2026,Sunset Tavern,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Anna Tivel,4/30/2026,Sunset Tavern,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Jessie Thoreson and The Crown Fire,4/30/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Philippe Jaroussky and Artaserse,4/30/2026,Town Hall Seattle,Music,Downtown,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Tavana,4/30/2026,Nectar Lounge,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Grace Ives,5/1/2026,Neumos,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Hit Explosion,5/1/2026,Nectar Lounge,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Lipphead,5/1/2026,Hidden Hall,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Allyn Naylor,5/2/2026,Slim's Last Chance,Music,South Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+ATLUS,5/2/2026,Nectar Lounge,Music,Fremont / Ballard,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Cut Worms,5/2/2026,Neumos,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Festal: Asian American Native Hawaiian Pacific Islander Heritage Month Celebration,5/2/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Deidre McCalla and Joe Jencks,6/5/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Sewerperson,6/5/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Festal: Pagdiriwang Philippine Festival,6/6/2026 through 6/7/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Festal: Indigenous People Festival,6/13/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Barefoot in the Park,5/13/2026 through 6/20/2026,Taproot Theatre,Theatre,North Seattle,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Festal: Seattle Iranian Festival,6/27/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+5 Seconds of Summer,7/2/2026,Climate Pledge Arena,Music,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Bite of Seattle,7/24/2026 through 7/26/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
+Festál : A Day in Punjab,8/1/2026,Seattle Center Armory,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy then Chance Light Rain,49,2 to 6 mph,W
