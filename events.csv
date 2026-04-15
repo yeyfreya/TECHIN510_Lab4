@@ -1,46 +1,82 @@
 Name,Date & Time,Location,Type,Region,Latitude,Longitude,weather,temperature,wind_speed,wind_direction
-April,4/14/2026,The Royal Room,Music,South Seattle,,,Chance Light Rain,44,10 mph,SSW
-U.S. Women’s National Team Match (USA vs Japan),4/14/2026,Lumen Field,Sports,Pioneer Square,,,Chance Light Rain,44,10 mph,SSW
-MFG aka Maxwell Friedman Group with McTuff ‘The V3’,4/15/2026,Hidden Hall,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Sleepy Cat,4/15/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-DJ Lex,4/16/2026,Neumos,Music,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-Reggie Garrett and Christine Gunn,4/18/2026,The Royal Room,Music,South Seattle,,,Chance Light Rain,44,10 mph,SSW
-Priscilla Dobler Dzul: Water Carries the Stories of Our Stars,Now through 4/19/2026,Frye Art Museum,Museums,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-10 Ft Ganja Plant,4/19/2026,Nectar Lounge,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-A Front Porch Revival,4/19/2026,The Royal Room,Music,South Seattle,,,Chance Light Rain,44,10 mph,SSW
-JUSTB,4/20/2026,Nectar Lounge,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Boudain,4/22/2026,Tractor Tavern,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Dancing Hearts,4/22/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-Ain’t Misbehavin’,Now through 4/24/2026,Taproot Theatre,Theatre,North Seattle,,,Chance Light Rain,44,10 mph,SSW
-Devil’s Duvet,4/24/2026,Slim's Last Chance,Music,South Seattle,,,Chance Light Rain,44,10 mph,SSW
-I WANT IT THAT WAY: 90s/2000s Dance Party,4/24/2026,Hidden Hall,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Joe Casalini Trio,4/24/2026,The Royal Room,Music,South Seattle,,,Chance Light Rain,44,10 mph,SSW
-CHYL,4/25/2026,Neumos,Music,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-Riding Together: 135 Years of Cycling in Seattle,Now through 4/26/2026,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Chance Light Rain,44,10 mph,SSW
-Brazilian Showcase,4/26/2026,The Royal Room,Music,South Seattle,,,Chance Light Rain,44,10 mph,SSW
-Mo Dow and  Friends,4/26/2026,Sunset Tavern,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Tempest Tossed,4/26/2026,Town Hall Seattle,Music,Downtown,,,Chance Light Rain,44,10 mph,SSW
-Jonny Fritz,4/27/2026,Sunset Tavern,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Photay,4/27/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-Global Rhythms: Novalima,4/28/2026,Town Hall Seattle,Music,Downtown,,,Chance Light Rain,44,10 mph,SSW
-Raf-Sappera,4/28/2026,Neumos,Music,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-El Ten Eleven,4/29/2026,Hidden Hall,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Las Cafeteras,4/29/2026,Nectar Lounge,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Seattle Storm vs. Portland Fire,4/29/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Chance Light Rain,44,10 mph,SSW
-The Cribs,4/29/2026,Sunset Tavern,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Anna Tivel,4/30/2026,Sunset Tavern,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Jessie Thoreson and The Crown Fire,4/30/2026,Tractor Tavern,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Philippe Jaroussky and Artaserse,4/30/2026,Town Hall Seattle,Music,Downtown,,,Chance Light Rain,44,10 mph,SSW
-Tavana,4/30/2026,Nectar Lounge,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Grace Ives,5/1/2026,Neumos,Music,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-Hit Explosion,5/1/2026,Nectar Lounge,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Lipphead,5/1/2026,Hidden Hall,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Allyn Naylor,5/2/2026,Slim's Last Chance,Music,South Seattle,,,Chance Light Rain,44,10 mph,SSW
-ATLUS,5/2/2026,Nectar Lounge,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Cut Worms,5/2/2026,Neumos,Music,Capitol Hill / Central District,,,Chance Light Rain,44,10 mph,SSW
-Festal: Asian American Native Hawaiian Pacific Islander Heritage Month Celebration,5/2/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,44,10 mph,SSW
-Never Ending Fall,5/2/2026,Hidden Hall,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-The Byrd Ensemble,5/2/2026,Town Hall Seattle,Music,Downtown,,,Chance Light Rain,44,10 mph,SSW
-Puuluup,5/3/2026,Nectar Lounge,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-Secretskill,5/3/2026,Sunset Tavern,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
-The High Seagrass,5/3/2026,Hidden Hall,Music,Fremont / Ballard,,,Chance Light Rain,44,10 mph,SSW
+MFG aka Maxwell Friedman Group with McTuff ‘The V3’,4/15/2026,Hidden Hall,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Sleepy Cat,4/15/2026,Barboza,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+DJ Lex,4/16/2026,Neumos,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Reggie Garrett and Christine Gunn,4/18/2026,The Royal Room,Music,South Seattle,,,Rain,39,3 to 18 mph,SSE
+Priscilla Dobler Dzul: Water Carries the Stories of Our Stars,Now through 4/19/2026,Frye Art Museum,Museums,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+10 Ft Ganja Plant,4/19/2026,Nectar Lounge,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+A Front Porch Revival,4/19/2026,The Royal Room,Music,South Seattle,,,Rain,39,3 to 18 mph,SSE
+JUSTB,4/20/2026,Nectar Lounge,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Boudain,4/22/2026,Tractor Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Dancing Hearts,4/22/2026,Barboza,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Ain’t Misbehavin’,Now through 4/24/2026,Taproot Theatre,Theatre,North Seattle,,,Rain,39,3 to 18 mph,SSE
+Devil’s Duvet,4/24/2026,Slim's Last Chance,Music,South Seattle,,,Rain,39,3 to 18 mph,SSE
+I WANT IT THAT WAY: 90s/2000s Dance Party,4/24/2026,Hidden Hall,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Joe Casalini Trio,4/24/2026,The Royal Room,Music,South Seattle,,,Rain,39,3 to 18 mph,SSE
+CHYL,4/25/2026,Neumos,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Riding Together: 135 Years of Cycling in Seattle,Now through 4/26/2026,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Brazilian Showcase,4/26/2026,The Royal Room,Music,South Seattle,,,Rain,39,3 to 18 mph,SSE
+Mo Dow and  Friends,4/26/2026,Sunset Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Tempest Tossed,4/26/2026,Town Hall Seattle,Music,Downtown,,,Rain,39,3 to 18 mph,SSE
+Jonny Fritz,4/27/2026,Sunset Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Photay,4/27/2026,Barboza,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Global Rhythms: Novalima,4/28/2026,Town Hall Seattle,Music,Downtown,,,Rain,39,3 to 18 mph,SSE
+Raf-Sappera,4/28/2026,Neumos,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+El Ten Eleven,4/29/2026,Hidden Hall,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Las Cafeteras,4/29/2026,Nectar Lounge,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Seattle Storm vs. Portland Fire,4/29/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+The Cribs,4/29/2026,Sunset Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Anna Tivel,4/30/2026,Sunset Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Jessie Thoreson and The Crown Fire,4/30/2026,Tractor Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Philippe Jaroussky and Artaserse,4/30/2026,Town Hall Seattle,Music,Downtown,,,Rain,39,3 to 18 mph,SSE
+Tavana,4/30/2026,Nectar Lounge,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Grace Ives,5/1/2026,Neumos,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Hit Explosion,5/1/2026,Nectar Lounge,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Lipphead,5/1/2026,Hidden Hall,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Allyn Naylor,5/2/2026,Slim's Last Chance,Music,South Seattle,,,Rain,39,3 to 18 mph,SSE
+ATLUS,5/2/2026,Nectar Lounge,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Cut Worms,5/2/2026,Neumos,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Festal: Asian American Native Hawaiian Pacific Islander Heritage Month Celebration,5/2/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Never Ending Fall,5/2/2026,Hidden Hall,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+The Byrd Ensemble,5/2/2026,Town Hall Seattle,Music,Downtown,,,Rain,39,3 to 18 mph,SSE
+Puuluup,5/3/2026,Nectar Lounge,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Secretskill,5/3/2026,Sunset Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+The High Seagrass,5/3/2026,Hidden Hall,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Twelfth Night Ensemble,5/3/2026,Town Hall Seattle,Music,Downtown,,,Rain,39,3 to 18 mph,SSE
+An Evening with Stillhouse Junkies,5/4/2026,The Royal Room,Music,South Seattle,,,Rain,39,3 to 18 mph,SSE
+Mietze Conte,5/26/2026,Barboza,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Jean Mann,5/27/2026,Tractor Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Seattle Storm vs. Washington Mystics,5/27/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Keith Anderson,5/28/2026,Tractor Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Bixby,5/29/2026,Barboza,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Pretty in Pink,5/29/2026,Tractor Tavern,Music,Fremont / Ballard,,,Rain,39,3 to 18 mph,SSE
+Justified Band,5/30/2026,The Royal Room,Music,South Seattle,,,Rain,39,3 to 18 mph,SSE
+Sophia Stel,5/30/2026,Barboza,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Austin Giorgio,5/31/2026,Barboza,Music,Capitol Hill / Central District,,,Rain,39,3 to 18 mph,SSE
+Festal: Croatiafest,10/4/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Festal: Turkfest,10/10/2026 through 10/11/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Conscience,9/16/2026 through 10/24/2026,Taproot Theatre,Theatre,North Seattle,,,Rain,39,3 to 18 mph,SSE
+Festal: Dia de Muertos Festival Seattle,10/31/2026 through 11/1/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Festal: Diwali – Lights of India,11/7/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Festal: Seattle Hmong New Year,11/14/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Seattle Christmas Market,11/20/2026 through 12/24/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+2028 NCAA Division I Men’s Basketball First + Second Rounds,3/1/2028,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Explore The Market,Ongoing,Pike Place Market,Festivals & Special Events,Downtown,,,Rain,39,3 to 18 mph,SSE
+Culture is Living,Ongoing,Burke Museum,Museums,University District,,,Rain,39,3 to 18 mph,SSE
+Fossils Uncovered,Ongoing,Burke Museum,Museums,University District,,,Rain,39,3 to 18 mph,SSE
+Northwest Native Art,Ongoing,Burke Museum,Museums,University District,,,Rain,39,3 to 18 mph,SSE
+Our Material World,Ongoing,Burke Museum,Museums,University District,,,Rain,39,3 to 18 mph,SSE
+Apollo,Ongoing,The Museum of Flight,Museums,South Seattle,,,Rain,39,3 to 18 mph,SSE
+Art and Life Along the Northwest Coast,Ongoing,Seattle Art Museum,Museums,Downtown,,,Rain,39,3 to 18 mph,SSE
+Washington: My Home,Ongoing,Washington State History Museum,Museums,South,,,Rain,39,3 to 18 mph,SSE
+Sensory-Friendly Programs,Ongoing,MoPOP Museum of Pop Culture,Festivals & Special Events,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Dale Chihuly at Tacoma Art Museum,Ongoing,Tacoma Art Museum,Museums,South,,,Rain,39,3 to 18 mph,SSE
+Porcelain Room,Ongoing,Seattle Art Museum,Museums,Downtown,,,Rain,39,3 to 18 mph,SSE
+Life on the Edge,Ongoing,Seattle Aquarium,Museums,Downtown,,,Rain,39,3 to 18 mph,SSE
+Tropical Pacific,Ongoing,Seattle Aquarium,Museums,Downtown,,,Rain,39,3 to 18 mph,SSE
+Underwater Dome,Ongoing,Seattle Aquarium,Museums,Downtown,,,Rain,39,3 to 18 mph,SSE
+Meet the Animals,Ongoing,Woodland Park Zoo,Museums,Wallingford / Greenlake,,,Rain,39,3 to 18 mph,SSE
+Chihuly Garden and Glass,Ongoing,Chihuly Garden and Glass,Museums,Queen Anne / Seattle Center,,,Rain,39,3 to 18 mph,SSE
+Discover Ancient Coast Salish Culture,Ongoing,Hibulb Cultural Center,Museums,North,,,Rain,39,3 to 18 mph,SSE
+The Original Food and Culture Tour of Pike Place Market,Ongoing,Pike Place Market,Tours & Attractions,Downtown,,,Rain,39,3 to 18 mph,SSE
+Untold Stories: World War II at 75,Ongoing,The Museum of Flight,Museums,South Seattle,,,Rain,39,3 to 18 mph,SSE
