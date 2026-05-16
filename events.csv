@@ -1,10 +1,113 @@
 Name,Date & Time,Location,Type,Region,Latitude,Longitude,weather,temperature,wind_speed,wind_direction
-Festal: Tibet Fest,8/8/2026 through 8/9/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,47,12 mph,SSW
-Joseph and the Amazing Technicolor Dreamcoat,7/8/2026 through 8/15/2026,Taproot Theatre,Theatre,North Seattle,,,Chance Light Rain,47,12 mph,SSW
-Festal: BrasilFest,8/16/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,47,12 mph,SSW
-Festival Sundiata presents Black Arts Fest,8/22/2026 through 8/23/2026,Seattle Center Armory,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,47,12 mph,SSW
-Festal: Live Aloha Hawaiian Cultural Festival,9/13/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,47,12 mph,SSW
-Festal: Sea Mar Fiestas Patrias,9/19/2026 through 9/20/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,47,12 mph,SSW
-Festal: The Italian Festival,9/26/2026 through 9/27/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,47,12 mph,SSW
-Festal: Croatiafest,10/4/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,47,12 mph,SSW
-Festal: Turkfest,10/10/2026 through 10/11/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Light Rain,47,12 mph,SSW
+GLOM,5/20/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Seattle Storm vs. Connecticut Sun,5/20/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+The Return of Jackie and Judy,5/21/2026,Neumos,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Urban Naturalist Lecture Series,5/21/2026,The Royal Room,Readings & Lectures,South Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Accessory,5/22/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Mia Borders,5/22/2026,The Royal Room,Music,South Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Seattle Storm vs. Connecticut Sun,5/22/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+PR For Monsters,5/23/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Avenue East,5/24/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Being as an Ocean,5/24/2026,El Corazon,Music,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Bob Dylan’s 85th Birthday Bash,5/24/2026,The Royal Room,Music,South Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Boris Grebenshikov and Aquarium,5/24/2026,Neumos,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Seattle Storm vs. Washington Mystics,5/24/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Chapterhouse,5/25/2026,The Crocodile,Music,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Mietze Conte,5/26/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Jean Mann,5/27/2026,Tractor Tavern,Music,Fremont / Ballard,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Seattle Storm vs. Washington Mystics,5/27/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Keith Anderson,5/28/2026,Tractor Tavern,Music,Fremont / Ballard,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Bixby,5/29/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Pretty in Pink,5/29/2026,Tractor Tavern,Music,Fremont / Ballard,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Justified Band,5/30/2026,The Royal Room,Music,South Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Sophia Stel,5/30/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Austin Giorgio,5/31/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Claire Rosinkranz,6/1/2026,The Crocodile,Music,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Seattle Storm vs. Phoenix Mercury,6/3/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Deidre McCalla and Joe Jencks,6/5/2026,The Royal Room,Music,South Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Sewerperson,6/5/2026,Barboza,Music,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Pagdiriwang Philippine Festival,6/6/2026 through 6/7/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Indigenous People Festival,6/13/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Barefoot in the Park,Now through 6/20/2026,Taproot Theatre,Theatre,North Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Seattle Iranian Festival,6/27/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+5 Seconds of Summer,7/2/2026,Climate Pledge Arena,Music,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Bite of Seattle,7/24/2026 through 7/26/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festál : A Day in Punjab,8/1/2026,Seattle Center Armory,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Tibet Fest,8/8/2026 through 8/9/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Joseph and the Amazing Technicolor Dreamcoat,7/8/2026 through 8/15/2026,Taproot Theatre,Theatre,North Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: BrasilFest,8/16/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festival Sundiata presents Black Arts Fest,8/22/2026 through 8/23/2026,Seattle Center Armory,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Live Aloha Hawaiian Cultural Festival,9/13/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Sea Mar Fiestas Patrias,9/19/2026 through 9/20/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: The Italian Festival,9/26/2026 through 9/27/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Croatiafest,10/4/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Turkfest,10/10/2026 through 10/11/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Conscience,9/16/2026 through 10/24/2026,Taproot Theatre,Theatre,North Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Dia de Muertos Festival Seattle,10/31/2026 through 11/1/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Diwali – Lights of India,11/7/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Festal: Seattle Hmong New Year,11/14/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Seattle Christmas Market,11/20/2026 through 12/24/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+2028 NCAA Division I Men’s Basketball First + Second Rounds,3/1/2028,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Explore The Market,Ongoing,Pike Place Market,Festivals & Special Events,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Olympic Sculpture Park,Ongoing,Olympic Sculpture Park,Visual Arts & Galleries,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Infinite Worlds of Science Fiction,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+"Wild Blue Angel: Hendrix Abroad, 1966-70",Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+John Grade: Middle Fork,Ongoing,Seattle Art Museum,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Scared to Death: The Thrill of Horror Film,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Nirvana: Taking Punk To the Masses,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Vietnam Divided: War Above Southeast Asia,Ongoing,The Museum of Flight,Museums,South Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Science Fiction and Fantasy Hall of Fame,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Honoring Our Journey,Ongoing,Wing Luke Museum,Museums,International District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Great Hall of Washington History,Ongoing,Washington State History Museum,Museums,South,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Humboldt Penguin Exhibit,Ongoing,Woodland Park Zoo,Museums,Wallingford / Greenlake,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Giant Pacific Octopus,Ongoing,Seattle Aquarium,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Meet our Marine Mammals,Ongoing,Seattle Aquarium,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Window on Washington Waters,Ongoing,Seattle Aquarium,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Guitar Gallery,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Nordic Journeys,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Baird’s beaked whale,Ongoing,Burke Museum,Museums,University District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Amazing Life,Ongoing,Burke Museum,Museums,University District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Culture is Living,Ongoing,Burke Museum,Museums,University District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Fossils Uncovered,Ongoing,Burke Museum,Museums,University District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Northwest Native Art,Ongoing,Burke Museum,Museums,University District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Our Material World,Ongoing,Burke Museum,Museums,University District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Apollo,Ongoing,The Museum of Flight,Museums,South Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Art and Life Along the Northwest Coast,Ongoing,Seattle Art Museum,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Washington: My Home,Ongoing,Washington State History Museum,Museums,South,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Sensory-Friendly Programs,Ongoing,MoPOP Museum of Pop Culture,Festivals & Special Events,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Dale Chihuly at Tacoma Art Museum,Ongoing,Tacoma Art Museum,Museums,South,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Porcelain Room,Ongoing,Seattle Art Museum,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Life on the Edge,Ongoing,Seattle Aquarium,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Tropical Pacific,Ongoing,Seattle Aquarium,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Underwater Dome,Ongoing,Seattle Aquarium,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Meet the Animals,Ongoing,Woodland Park Zoo,Museums,Wallingford / Greenlake,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Chihuly Garden and Glass,Ongoing,Chihuly Garden and Glass,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Discover Ancient Coast Salish Culture,Ongoing,Hibulb Cultural Center,Museums,North,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+The Original Food and Culture Tour of Pike Place Market,Ongoing,Pike Place Market,Tours & Attractions,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Untold Stories: World War II at 75,Ongoing,The Museum of Flight,Museums,South Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Bezos Center for Innovation,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Maritime Seattle,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+True Northwest: The Seattle Journey,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Metaphor into Form: Art in the Era of the Pilchuck Glass School,Ongoing,Tacoma Art Museum,Museums,South,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Winter in the West,Ongoing,Tacoma Art Museum,Museums,South,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Ballard Farmers Market – Sunday,Ongoing,Ballard Farmers Market,Festivals & Special Events,Fremont / Ballard,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Capitol Hill Farmers Market – Sunday,Ongoing,Capitol Hill Farmers Market,Festivals & Special Events,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+University District Farmers Market,Ongoing,University District Farmers Market,Festivals & Special Events,University District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Fremont Sunday Market,Ongoing,Fremont Farmers Market,Festivals & Special Events,Fremont / Ballard,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Chihuly Garden and Glass Gallery Talks & Tours,Ongoing,Chihuly Garden and Glass,Tours & Attractions,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Boundless: Stories of Asian Art,Ongoing,Seattle Asian Art Museum,Museums,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Kenzan Tsutakawa-Chinn: Gather,Ongoing,Seattle Asian Art Museum,Museums,Capitol Hill / Central District,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Art Walk Edmonds | Every Third Thursday,Ongoing,Cascadia Art Museum,Visual Arts & Galleries,North,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Show Me Seattle Tours,Ongoing,"Seattle, WA",Tours & Attractions,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+LeMay – America’s Car Museum,Ongoing,LeMay - America's Car Museum,Museums,South,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+History Link Tours,Ongoing,"Seattle, WA",Tours & Attractions,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+West Seattle Farmers Market – Sundays,Ongoing,West Seattle Farmers Market,Festivals & Special Events,West Seattle,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+REMEMBRANCE: The Legacy of Executive Order 9066 in Washington State,Ongoing,Washington State History Museum,Museums,South,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Pioneer Square First Thursday Art Walk,Ongoing,Pioneer Square,Visual Arts & Galleries,Pioneer Square,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Deities and Demons: Supernatural in Japanese Art,Ongoing,Seattle Art Museum,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+American Art: The Stories We Carry,Ongoing,Seattle Art Museum,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Massive: The Power of Pop Culture,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Yirrkala: Art from Australia’s Top End,Ongoing,Seattle Art Museum,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Earthlings and Extraterrestrials: 20 Years of Kids Design Glass,Ongoing,Museum of Glass,Museums,South,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Calder at SAM,Ongoing,Seattle Art Museum,Museums,Downtown,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
+Docent-Led Museum Tours,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,,,Chance Showers And Thunderstorms then Chance Light Rain,45,9 to 14 mph,SSW
