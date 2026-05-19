@@ -1,100 +1,64 @@
 Name,Date & Time,Location,Type,Region,Latitude,Longitude,weather,temperature,wind_speed,wind_direction
-GLOM,5/20/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Seattle Storm vs. Connecticut Sun,5/20/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-The Return of Jackie and Judy,5/21/2026,Neumos,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Urban Naturalist Lecture Series,5/21/2026,The Royal Room,Readings & Lectures,South Seattle,,,Mostly Cloudy,48,2 mph,NE
-Accessory,5/22/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Mia Borders,5/22/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy,48,2 mph,NE
-Seattle Storm vs. Connecticut Sun,5/22/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-PR For Monsters,5/23/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Avenue East,5/24/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Being as an Ocean,5/24/2026,El Corazon,Music,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Bob Dylan’s 85th Birthday Bash,5/24/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy,48,2 mph,NE
-Boris Grebenshikov and Aquarium,5/24/2026,Neumos,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Seattle Storm vs. Washington Mystics,5/24/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Chapterhouse,5/25/2026,The Crocodile,Music,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Mietze Conte,5/26/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Jean Mann,5/27/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy,48,2 mph,NE
-Seattle Storm vs. Washington Mystics,5/27/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Keith Anderson,5/28/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy,48,2 mph,NE
-Bixby,5/29/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Pretty in Pink,5/29/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy,48,2 mph,NE
-Justified Band,5/30/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy,48,2 mph,NE
-Sophia Stel,5/30/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Austin Giorgio,5/31/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Claire Rosinkranz,6/1/2026,The Crocodile,Music,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Seattle Storm vs. Phoenix Mercury,6/3/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Deidre McCalla and Joe Jencks,6/5/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy,48,2 mph,NE
-Sewerperson,6/5/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Festal: Pagdiriwang Philippine Festival,6/6/2026 through 6/7/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Festal: Indigenous People Festival,6/13/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Barefoot in the Park,Now through 6/20/2026,Taproot Theatre,Theatre,North Seattle,,,Mostly Cloudy,48,2 mph,NE
-Festal: Seattle Iranian Festival,6/27/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-5 Seconds of Summer,7/2/2026,Climate Pledge Arena,Music,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Bite of Seattle,7/24/2026 through 7/26/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Festál : A Day in Punjab,8/1/2026,Seattle Center Armory,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Festal: Tibet Fest,8/8/2026 through 8/9/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Joseph and the Amazing Technicolor Dreamcoat,7/8/2026 through 8/15/2026,Taproot Theatre,Theatre,North Seattle,,,Mostly Cloudy,48,2 mph,NE
-Conscience,9/16/2026 through 10/24/2026,Taproot Theatre,Theatre,North Seattle,,,Mostly Cloudy,48,2 mph,NE
-Festal: Dia de Muertos Festival Seattle,10/31/2026 through 11/1/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Festal: Diwali – Lights of India,11/7/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Festal: Seattle Hmong New Year,11/14/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Seattle Christmas Market,11/20/2026 through 12/24/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-2028 NCAA Division I Men’s Basketball First + Second Rounds,3/1/2028,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Explore The Market,Ongoing,Pike Place Market,Festivals & Special Events,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Olympic Sculpture Park,Ongoing,Olympic Sculpture Park,Visual Arts & Galleries,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Infinite Worlds of Science Fiction,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Festal: Diwali – Lights of India,11/7/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Festal: Seattle Hmong New Year,11/14/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Seattle Christmas Market,11/20/2026 through 12/24/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-2028 NCAA Division I Men’s Basketball First + Second Rounds,3/1/2028,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Explore The Market,Ongoing,Pike Place Market,Festivals & Special Events,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Olympic Sculpture Park,Ongoing,Olympic Sculpture Park,Visual Arts & Galleries,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Infinite Worlds of Science Fiction,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-"Wild Blue Angel: Hendrix Abroad, 1966-70",Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-John Grade: Middle Fork,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Giant Pacific Octopus,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Meet our Marine Mammals,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Window on Washington Waters,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Guitar Gallery,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Nordic Journeys,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,,,Mostly Cloudy,48,2 mph,NE
-Baird’s beaked whale,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Amazing Life,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Culture is Living,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Fossils Uncovered,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Window on Washington Waters,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Guitar Gallery,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Nordic Journeys,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,,,Mostly Cloudy,48,2 mph,NE
-Baird’s beaked whale,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Amazing Life,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Culture is Living,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Fossils Uncovered,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Northwest Native Art,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Our Material World,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,48,2 mph,NE
-Apollo,Ongoing,The Museum of Flight,Museums,South Seattle,,,Mostly Cloudy,48,2 mph,NE
-Art and Life Along the Northwest Coast,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Washington: My Home,Ongoing,Washington State History Museum,Museums,South,,,Mostly Cloudy,48,2 mph,NE
-Sensory-Friendly Programs,Ongoing,MoPOP Museum of Pop Culture,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Dale Chihuly at Tacoma Art Museum,Ongoing,Tacoma Art Museum,Museums,South,,,Mostly Cloudy,48,2 mph,NE
-Porcelain Room,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Life on the Edge,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Tropical Pacific,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Underwater Dome,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Meet the Animals,Ongoing,Woodland Park Zoo,Museums,Wallingford / Greenlake,,,Mostly Cloudy,48,2 mph,NE
-Chihuly Garden and Glass,Ongoing,Chihuly Garden and Glass,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Discover Ancient Coast Salish Culture,Ongoing,Hibulb Cultural Center,Museums,North,,,Mostly Cloudy,48,2 mph,NE
-The Original Food and Culture Tour of Pike Place Market,Ongoing,Pike Place Market,Tours & Attractions,Downtown,,,Mostly Cloudy,48,2 mph,NE
-Untold Stories: World War II at 75,Ongoing,The Museum of Flight,Museums,South Seattle,,,Mostly Cloudy,48,2 mph,NE
-Bezos Center for Innovation,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Maritime Seattle,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-True Northwest: The Seattle Journey,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Metaphor into Form: Art in the Era of the Pilchuck Glass School,Ongoing,Tacoma Art Museum,Museums,South,,,Mostly Cloudy,48,2 mph,NE
-Winter in the West,Ongoing,Tacoma Art Museum,Museums,South,,,Mostly Cloudy,48,2 mph,NE
-Ballard Farmers Market – Sunday,Ongoing,Ballard Farmers Market,Festivals & Special Events,Fremont / Ballard,,,Mostly Cloudy,48,2 mph,NE
-Capitol Hill Farmers Market – Sunday,Ongoing,Capitol Hill Farmers Market,Festivals & Special Events,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-University District Farmers Market,Ongoing,University District Farmers Market,Festivals & Special Events,University District,,,Mostly Cloudy,48,2 mph,NE
-Fremont Sunday Market,Ongoing,Fremont Farmers Market,Festivals & Special Events,Fremont / Ballard,,,Mostly Cloudy,48,2 mph,NE
-Chihuly Garden and Glass Gallery Talks & Tours,Ongoing,Chihuly Garden and Glass,Tours & Attractions,Queen Anne / Seattle Center,,,Mostly Cloudy,48,2 mph,NE
-Boundless: Stories of Asian Art,Ongoing,Seattle Asian Art Museum,Museums,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Kenzan Tsutakawa-Chinn: Gather,Ongoing,Seattle Asian Art Museum,Museums,Capitol Hill / Central District,,,Mostly Cloudy,48,2 mph,NE
-Art Walk Edmonds | Every Third Thursday,Ongoing,Cascadia Art Museum,Visual Arts & Galleries,North,,,Mostly Cloudy,48,2 mph,NE
+PR For Monsters,5/23/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Avenue East,5/24/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Being as an Ocean,5/24/2026,El Corazon,Music,Downtown,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Bob Dylan’s 85th Birthday Bash,5/24/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Boris Grebenshikov and Aquarium,5/24/2026,Neumos,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Seattle Storm vs. Washington Mystics,5/24/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Chapterhouse,5/25/2026,The Crocodile,Music,Downtown,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Mietze Conte,5/26/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Jean Mann,5/27/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Seattle Storm vs. Washington Mystics,5/27/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Keith Anderson,5/28/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Bixby,5/29/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Pretty in Pink,5/29/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Justified Band,5/30/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Sophia Stel,5/30/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Austin Giorgio,5/31/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Claire Rosinkranz,6/1/2026,The Crocodile,Music,Downtown,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Seattle Storm vs. Phoenix Mercury,6/3/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Bixby,5/29/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Pretty in Pink,5/29/2026,Tractor Tavern,Music,Fremont / Ballard,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Justified Band,5/30/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Sophia Stel,5/30/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Austin Giorgio,5/31/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Claire Rosinkranz,6/1/2026,The Crocodile,Music,Downtown,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Seattle Storm vs. Phoenix Mercury,6/3/2026,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Deidre McCalla and Joe Jencks,6/5/2026,The Royal Room,Music,South Seattle,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Sewerperson,6/5/2026,Barboza,Music,Capitol Hill / Central District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: Tibet Fest,8/8/2026 through 8/9/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Joseph and the Amazing Technicolor Dreamcoat,7/8/2026 through 8/15/2026,Taproot Theatre,Theatre,North Seattle,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: BrasilFest,8/16/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festival Sundiata presents Black Arts Fest,8/22/2026 through 8/23/2026,Seattle Center Armory,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: Live Aloha Hawaiian Cultural Festival,9/13/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: Sea Mar Fiestas Patrias,9/19/2026 through 9/20/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: The Italian Festival,9/26/2026 through 9/27/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: Croatiafest,10/4/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: Turkfest,10/10/2026 through 10/11/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Conscience,9/16/2026 through 10/24/2026,Taproot Theatre,Theatre,North Seattle,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: Dia de Muertos Festival Seattle,10/31/2026 through 11/1/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: Diwali – Lights of India,11/7/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Festal: Seattle Hmong New Year,11/14/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Seattle Christmas Market,11/20/2026 through 12/24/2026,Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+2028 NCAA Division I Men’s Basketball First + Second Rounds,3/1/2028,Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Explore The Market,Ongoing,Pike Place Market,Festivals & Special Events,Downtown,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Olympic Sculpture Park,Ongoing,Olympic Sculpture Park,Visual Arts & Galleries,Downtown,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Infinite Worlds of Science Fiction,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Window on Washington Waters,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Guitar Gallery,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Nordic Journeys,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Baird’s beaked whale,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Amazing Life,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Culture is Living,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Fossils Uncovered,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Northwest Native Art,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Our Material World,Ongoing,Burke Museum,Museums,University District,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Meet the Animals,Ongoing,Woodland Park Zoo,Museums,Wallingford / Greenlake,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Chihuly Garden and Glass,Ongoing,Chihuly Garden and Glass,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Discover Ancient Coast Salish Culture,Ongoing,Hibulb Cultural Center,Museums,North,,,Mostly Cloudy,50,2 to 6 mph,ENE
+The Original Food and Culture Tour of Pike Place Market,Ongoing,Pike Place Market,Tours & Attractions,Downtown,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Untold Stories: World War II at 75,Ongoing,The Museum of Flight,Museums,South Seattle,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Bezos Center for Innovation,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Maritime Seattle,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+True Northwest: The Seattle Journey,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Cloudy,50,2 to 6 mph,ENE
+Metaphor into Form: Art in the Era of the Pilchuck Glass School,Ongoing,Tacoma Art Museum,Museums,South,,,Mostly Cloudy,50,2 to 6 mph,ENE
