@@ -1,47 +1,65 @@
 Name,Date & Time,Location,Type,Region,Latitude,Longitude,weather,temperature,wind_speed,wind_direction
-Baird’s beaked whale,Ongoing,Burke Museum,Museums,University District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Amazing Life,Ongoing,Burke Museum,Museums,University District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Culture is Living,Ongoing,Burke Museum,Museums,University District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Fossils Uncovered,Ongoing,Burke Museum,Museums,University District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Northwest Native Art,Ongoing,Burke Museum,Museums,University District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Our Material World,Ongoing,Burke Museum,Museums,University District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Apollo,Ongoing,The Museum of Flight,Museums,South Seattle,,,Partly Cloudy,60,3 to 9 mph,NNE
-Art and Life Along the Northwest Coast,Ongoing,Seattle Art Museum,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Washington: My Home,Ongoing,Washington State History Museum,Museums,South,,,Partly Cloudy,60,3 to 9 mph,NNE
-Sensory-Friendly Programs,Ongoing,MoPOP Museum of Pop Culture,Festivals & Special Events,Queen Anne / Seattle Center,,,Partly Cloudy,60,3 to 9 mph,NNE
-Dale Chihuly at Tacoma Art Museum,Ongoing,Tacoma Art Museum,Museums,South,,,Partly Cloudy,60,3 to 9 mph,NNE
-Porcelain Room,Ongoing,Seattle Art Museum,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Life on the Edge,Ongoing,Seattle Aquarium,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Tropical Pacific,Ongoing,Seattle Aquarium,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Underwater Dome,Ongoing,Seattle Aquarium,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Meet the Animals,Ongoing,Woodland Park Zoo,Museums,Wallingford / Greenlake,,,Partly Cloudy,60,3 to 9 mph,NNE
-Chihuly Garden and Glass,Ongoing,Chihuly Garden and Glass,Museums,Queen Anne / Seattle Center,,,Partly Cloudy,60,3 to 9 mph,NNE
-Discover Ancient Coast Salish Culture,Ongoing,Hibulb Cultural Center,Museums,North,,,Partly Cloudy,60,3 to 9 mph,NNE
-The Original Food and Culture Tour of Pike Place Market,Ongoing,Pike Place Market,Tours & Attractions,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Untold Stories: World War II at 75,Ongoing,The Museum of Flight,Museums,South Seattle,,,Partly Cloudy,60,3 to 9 mph,NNE
-Bezos Center for Innovation,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Partly Cloudy,60,3 to 9 mph,NNE
-Maritime Seattle,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Partly Cloudy,60,3 to 9 mph,NNE
-True Northwest: The Seattle Journey,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Partly Cloudy,60,3 to 9 mph,NNE
-Metaphor into Form: Art in the Era of the Pilchuck Glass School,Ongoing,Tacoma Art Museum,Museums,South,,,Partly Cloudy,60,3 to 9 mph,NNE
-Winter in the West,Ongoing,Tacoma Art Museum,Museums,South,,,Partly Cloudy,60,3 to 9 mph,NNE
-Ballard Farmers Market – Sunday,Ongoing,Ballard Farmers Market,Festivals & Special Events,Fremont / Ballard,,,Partly Cloudy,60,3 to 9 mph,NNE
-Capitol Hill Farmers Market – Sunday,Ongoing,Capitol Hill Farmers Market,Festivals & Special Events,Capitol Hill / Central District,,,Partly Cloudy,60,3 to 9 mph,NNE
-University District Farmers Market,Ongoing,University District Farmers Market,Festivals & Special Events,University District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Fremont Sunday Market,Ongoing,Fremont Farmers Market,Festivals & Special Events,Fremont / Ballard,,,Partly Cloudy,60,3 to 9 mph,NNE
-Chihuly Garden and Glass Gallery Talks & Tours,Ongoing,Chihuly Garden and Glass,Tours & Attractions,Queen Anne / Seattle Center,,,Partly Cloudy,60,3 to 9 mph,NNE
-Boundless: Stories of Asian Art,Ongoing,Seattle Asian Art Museum,Museums,Capitol Hill / Central District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Kenzan Tsutakawa-Chinn: Gather,Ongoing,Seattle Asian Art Museum,Museums,Capitol Hill / Central District,,,Partly Cloudy,60,3 to 9 mph,NNE
-Art Walk Edmonds | Every Third Thursday,Ongoing,Cascadia Art Museum,Visual Arts & Galleries,North,,,Partly Cloudy,60,3 to 9 mph,NNE
-Show Me Seattle Tours,Ongoing,"Seattle, WA",Tours & Attractions,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-LeMay – America’s Car Museum,Ongoing,LeMay - America's Car Museum,Museums,South,,,Partly Cloudy,60,3 to 9 mph,NNE
-History Link Tours,Ongoing,"Seattle, WA",Tours & Attractions,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-West Seattle Farmers Market – Sundays,Ongoing,West Seattle Farmers Market,Festivals & Special Events,West Seattle,,,Partly Cloudy,60,3 to 9 mph,NNE
-REMEMBRANCE: The Legacy of Executive Order 9066 in Washington State,Ongoing,Washington State History Museum,Museums,South,,,Partly Cloudy,60,3 to 9 mph,NNE
-Pioneer Square First Thursday Art Walk,Ongoing,Pioneer Square,Visual Arts & Galleries,Pioneer Square,,,Partly Cloudy,60,3 to 9 mph,NNE
-Deities and Demons: Supernatural in Japanese Art,Ongoing,Seattle Art Museum,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-American Art: The Stories We Carry,Ongoing,Seattle Art Museum,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Massive: The Power of Pop Culture,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Partly Cloudy,60,3 to 9 mph,NNE
-Yirrkala: Art from Australia’s Top End,Ongoing,Seattle Art Museum,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Earthlings and Extraterrestrials: 20 Years of Kids Design Glass,Ongoing,Museum of Glass,Museums,South,,,Partly Cloudy,60,3 to 9 mph,NNE
-Calder at SAM,Ongoing,Seattle Art Museum,Museums,Downtown,,,Partly Cloudy,60,3 to 9 mph,NNE
-Docent-Led Museum Tours,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,,,Partly Cloudy,60,3 to 9 mph,NNE
+Festal: Sea Mar Fiestas Patrias,"September 19-20, 2026",Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Festal: The Italian Festival,"September 26-27, 2026",Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Festal: Croatiafest,"October 4, 2026",Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Festal: Turkfest,"October 10-11, 2026",Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Conscience,"September 16-October 24, 2026",Taproot Theatre,Theatre,North Seattle,,,Mostly Clear,62,1 to 7 mph,N
+Festal: Dia de Muertos Festival Seattle,"October 31-November 1, 2026",Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Festal: Diwali – Lights of India,"November 7, 2026",Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Festal: Seattle Hmong New Year,"November 14, 2026",Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Seattle Christmas Market,"November 20-December 24, 2026",Seattle Center,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+2028 NCAA Division I Men’s Basketball First + Second Rounds,"March 1, 2028",Climate Pledge Arena,Sports,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Explore The Market,Ongoing,Pike Place Market,Festivals & Special Events,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Olympic Sculpture Park,Ongoing,Olympic Sculpture Park,Visual Arts & Galleries,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Infinite Worlds of Science Fiction,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+"Wild Blue Angel: Hendrix Abroad, 1966-70",Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+John Grade: Middle Fork,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Scared to Death: The Thrill of Horror Film,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Nirvana: Taking Punk To the Masses,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Vietnam Divided: War Above Southeast Asia,Ongoing,The Museum of Flight,Museums,South Seattle,,,Mostly Clear,62,1 to 7 mph,N
+Science Fiction and Fantasy Hall of Fame,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Honoring Our Journey,Ongoing,Wing Luke Museum,Museums,International District,,,Mostly Clear,62,1 to 7 mph,N
+Great Hall of Washington History,Ongoing,Washington State History Museum,Museums,South,,,Mostly Clear,62,1 to 7 mph,N
+Humboldt Penguin Exhibit,Ongoing,Woodland Park Zoo,Museums,Wallingford / Greenlake,,,Mostly Clear,62,1 to 7 mph,N
+Giant Pacific Octopus,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Meet our Marine Mammals,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Window on Washington Waters,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Guitar Gallery,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Nordic Journeys,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,,,Mostly Clear,62,1 to 7 mph,N
+Baird’s beaked whale,Ongoing,Burke Museum,Museums,University District,,,Mostly Clear,62,1 to 7 mph,N
+Amazing Life,Ongoing,Burke Museum,Museums,University District,,,Mostly Clear,62,1 to 7 mph,N
+Culture is Living,Ongoing,Burke Museum,Museums,University District,,,Mostly Clear,62,1 to 7 mph,N
+Fossils Uncovered,Ongoing,Burke Museum,Museums,University District,,,Mostly Clear,62,1 to 7 mph,N
+Northwest Native Art,Ongoing,Burke Museum,Museums,University District,,,Mostly Clear,62,1 to 7 mph,N
+Our Material World,Ongoing,Burke Museum,Museums,University District,,,Mostly Clear,62,1 to 7 mph,N
+Apollo,Ongoing,The Museum of Flight,Museums,South Seattle,,,Mostly Clear,62,1 to 7 mph,N
+Art and Life Along the Northwest Coast,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Washington: My Home,Ongoing,Washington State History Museum,Museums,South,,,Mostly Clear,62,1 to 7 mph,N
+Sensory-Friendly Programs,Ongoing,MoPOP Museum of Pop Culture,Festivals & Special Events,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Dale Chihuly at Tacoma Art Museum,Ongoing,Tacoma Art Museum,Museums,South,,,Mostly Clear,62,1 to 7 mph,N
+Porcelain Room,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Life on the Edge,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Tropical Pacific,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Underwater Dome,Ongoing,Seattle Aquarium,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Meet the Animals,Ongoing,Woodland Park Zoo,Museums,Wallingford / Greenlake,,,Mostly Clear,62,1 to 7 mph,N
+Chihuly Garden and Glass,Ongoing,Chihuly Garden and Glass,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Discover Ancient Coast Salish Culture,Ongoing,Hibulb Cultural Center,Museums,North,,,Mostly Clear,62,1 to 7 mph,N
+The Original Food and Culture Tour of Pike Place Market,Ongoing,Pike Place Market,Tours & Attractions,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Untold Stories: World War II at 75,Ongoing,The Museum of Flight,Museums,South Seattle,,,Mostly Clear,62,1 to 7 mph,N
+Bezos Center for Innovation,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Maritime Seattle,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+True Northwest: The Seattle Journey,Ongoing,Museum of History & Industry,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Metaphor into Form: Art in the Era of the Pilchuck Glass School,Ongoing,Tacoma Art Museum,Museums,South,,,Mostly Clear,62,1 to 7 mph,N
+Winter in the West,Ongoing,Tacoma Art Museum,Museums,South,,,Mostly Clear,62,1 to 7 mph,N
+Ballard Farmers Market – Sunday,Ongoing,Ballard Farmers Market,Festivals & Special Events,Fremont / Ballard,,,Mostly Clear,62,1 to 7 mph,N
+Capitol Hill Farmers Market – Sunday,Ongoing,Capitol Hill Farmers Market,Festivals & Special Events,Capitol Hill / Central District,,,Mostly Clear,62,1 to 7 mph,N
+West Seattle Farmers Market – Sundays,Ongoing,West Seattle Farmers Market,Festivals & Special Events,West Seattle,,,Mostly Clear,62,1 to 7 mph,N
+REMEMBRANCE: The Legacy of Executive Order 9066 in Washington State,Ongoing,Washington State History Museum,Museums,South,,,Mostly Clear,62,1 to 7 mph,N
+Pioneer Square First Thursday Art Walk,Ongoing,Pioneer Square,Visual Arts & Galleries,Pioneer Square,,,Mostly Clear,62,1 to 7 mph,N
+Deities and Demons: Supernatural in Japanese Art,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+American Art: The Stories We Carry,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Massive: The Power of Pop Culture,Ongoing,MoPOP Museum of Pop Culture,Museums,Queen Anne / Seattle Center,,,Mostly Clear,62,1 to 7 mph,N
+Yirrkala: Art from Australia’s Top End,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Earthlings and Extraterrestrials: 20 Years of Kids Design Glass,Ongoing,Museum of Glass,Museums,South,,,Mostly Clear,62,1 to 7 mph,N
+Calder at SAM,Ongoing,Seattle Art Museum,Museums,Downtown,,,Mostly Clear,62,1 to 7 mph,N
+Docent-Led Museum Tours,Ongoing,National Nordic Museum,Museums,Fremont / Ballard,,,Mostly Clear,62,1 to 7 mph,N
